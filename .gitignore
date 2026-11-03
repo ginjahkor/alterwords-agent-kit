@@ -1,0 +1,29 @@
+# Your own settings and keys never go in the repo
+settings.env
+*.env
+!settings.example.env
+.env*
+**/.config/
+*.key
+*.pem
+*token*
+*cookie*
+*.cookies
+cookies.txt
+wgcf-account.toml
+wgcf-profile.conf
+wireproxy.conf
+
+# Working files, renders and downloads
+work/
+posts/
+looks/
+models/
+hf/
+*.log
+__pycache__/
+*.pyc
+.hyperframes/
+node_modules/
+templates/hyperframes/*/assets/*.mp4
+/tmp/
