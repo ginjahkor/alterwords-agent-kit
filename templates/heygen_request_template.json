@@ -1,0 +1,12 @@
+{
+  "type": "avatar",
+  "title": "__TITLE__",
+  "avatar_id": "__AVATAR_ID__",
+  "audio_asset_id": "__AUDIO_ASSET_ID__",
+  "engine": {"type": "avatar_iv"},
+  "expressiveness": "medium",
+  "motion_prompt": "Relaxed, confident young woman talking to camera with small natural hand gestures. During the silent stretch in the middle she is listening to a song playing off camera: she stops talking, gently nods her head to the beat, sways her shoulders slightly, smiles a little and looks impressed, mouth closed.",
+  "aspect_ratio": "9:16",
+  "fit": "cover",
+  "resolution": "720p"
+}
